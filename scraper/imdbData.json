@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Oppenheimer",
+        "duration": {
+            "year": "2023",
+            "hour": "3h"
+        },
+        "rate": "8.6 (425K)Rate"
+    },
+    {
+        "name": "Barbie",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 54m"
+        },
+        "rate": "7.3 (292K)Rate"
+    },
+    {
+        "name": "You Are So Not Invited to My Bat Mitzvah",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 43m"
+        },
+        "rate": "6.0 (14K)Rate"
+    },
+    {
+        "name": "The Equalizer 3",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 49m"
+        },
+        "rate": "7.1 (14K)Rate"
+    },
+    {
+        "name": "The Little Mermaid",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 15m"
+        },
+        "rate": "7.2 (121K)Rate"
+    },
+    {
+        "name": "Poor Things",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 21m"
+        },
+        "rate": "8.1 (577)Rate"
+    },
+    {
+        "name": "The Nun II",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 50m"
+        },
+        "rate": "6.1 (7.4K)Rate"
+    },
+    {
+        "name": "Jawan",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 49m"
+        },
+        "rate": "7.9 (38K)Rate"
+    },
+    {
+        "name": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 39m"
+        },
+        "rate": "7.3 (31K)Rate"
+    },
+    {
+        "name": "Indiana Jones and the Dial of Destiny",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 34m"
+        },
+        "rate": "6.7 (117K)Rate"
+    },
+    {
+        "name": "No Hard Feelings",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 43m"
+        },
+        "rate": "6.4 (66K)Rate"
+    },
+    {
+        "name": "The Bikeriders",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 56m"
+        },
+        "rate": "9.0 (246)Rate"
+    },
+    {
+        "name": "The Last Voyage of the Demeter",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 58m"
+        },
+        "rate": "6.2 (21K)Rate"
+    },
+    {
+        "name": "The Flash",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 24m"
+        },
+        "rate": "6.8 (166K)Rate"
+    },
+    {
+        "name": "Strays",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 33m"
+        },
+        "rate": "6.3 (9.1K)Rate"
+    },
+    {
+        "name": "Bottoms",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 31m"
+        },
+        "rate": "7.6 (4.2K)Rate"
+    },
+    {
+        "name": "A Haunting in Venice",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 43m"
+        },
+        "rate": ""
+    },
+    {
+        "name": "Sound of Freedom",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 11m"
+        },
+        "rate": "7.9 (55K)Rate"
+    },
+    {
+        "name": "Blue Beetle",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 7m"
+        },
+        "rate": "6.7 (28K)Rate"
+    },
+    {
+        "name": "Gran Turismo",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 14m"
+        },
+        "rate": "7.4 (21K)Rate"
+    },
+    {
+        "name": "Don't Worry Darling",
+        "duration": {
+            "year": "2022",
+            "hour": "2h 3m"
+        },
+        "rate": "6.3 (127K)Rate"
+    },
+    {
+        "name": "Talk to Me",
+        "duration": {
+            "year": "2022",
+            "hour": "1h 35m"
+        },
+        "rate": "7.4 (33K)Rate"
+    },
+    {
+        "name": "Meg 2: The Trench",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 56m"
+        },
+        "rate": "5.2 (40K)Rate"
+    },
+    {
+        "name": "Spider-Man: Across the Spider-Verse",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 20m"
+        },
+        "rate": "8.7 (255K)Rate"
+    },
+    {
+        "name": "Guardians of the Galaxy Vol. 3",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 30m"
+        },
+        "rate": "8.0 (312K)Rate"
+    },
+    {
+        "name": "The Equalizer",
+        "duration": {
+            "year": "2014",
+            "hour": "2h 12m"
+        },
+        "rate": "7.2 (395K)Rate"
+    },
+    {
+        "name": "The Killer",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 58m"
+        },
+        "rate": "7.4 (351)Rate"
+    },
+    {
+        "name": "Dungeons & Dragons: Honor Among Thieves",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 14m"
+        },
+        "rate": "7.3 (179K)Rate"
+    },
+    {
+        "name": "Red, White & Royal Blue",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 58m"
+        },
+        "rate": "7.0 (35K)Rate"
+    },
+    {
+        "name": "Five Nights at Freddy's",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 50m"
+        },
+        "rate": ""
+    },
+    {
+        "name": "The Nun",
+        "duration": {
+            "year": "2018",
+            "hour": "1h 36m"
+        },
+        "rate": "5.3 (154K)Rate"
+    },
+    {
+        "name": "Ferrari",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 10m"
+        },
+        "rate": "6.8 (335)Rate"
+    },
+    {
+        "name": "Love Again",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 44m"
+        },
+        "rate": "5.8 (8.2K)Rate"
+    },
+    {
+        "name": "The Boogeyman",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 38m"
+        },
+        "rate": "6.0 (21K)Rate"
+    },
+    {
+        "name": "X",
+        "duration": {
+            "year": "2022",
+            "hour": "1h 45m"
+        },
+        "rate": "6.6 (143K)Rate"
+    },
+    {
+        "name": "Past Lives",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 45m"
+        },
+        "rate": "8.1 (19K)Rate"
+    },
+    {
+        "name": "My Big Fat Greek Wedding 3",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 32m"
+        },
+        "rate": "5.3 (823)Rate"
+    },
+    {
+        "name": "Killers of the Flower Moon",
+        "duration": {
+            "year": "2023",
+            "hour": "3h 26m"
+        },
+        "rate": ""
+    },
+    {
+        "name": "Heart of Stone",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 2m"
+        },
+        "rate": "5.7 (45K)Rate"
+    },
+    {
+        "name": "Mission: Impossible - Dead Reckoning Part One",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 43m"
+        },
+        "rate": "8.0 (137K)Rate"
+    },
+    {
+        "name": "The Batman",
+        "duration": {
+            "year": "2022",
+            "hour": "2h 56m"
+        },
+        "rate": "7.8 (729K)Rate"
+    },
+    {
+        "name": "Asteroid City",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 45m"
+        },
+        "rate": "6.6 (71K)Rate"
+    },
+    {
+        "name": "Jailer",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 48m"
+        },
+        "rate": "7.3 (18K)Rate"
+    },
+    {
+        "name": "Hypnotic",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 33m"
+        },
+        "rate": "5.5 (20K)Rate"
+    },
+    {
+        "name": "The Super Mario Bros. Movie",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 32m"
+        },
+        "rate": "7.1 (190K)Rate"
+    },
+    {
+        "name": "Expend4bles",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 43m"
+        },
+        "rate": ""
+    },
+    {
+        "name": "Elemental",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 41m"
+        },
+        "rate": "7.0 (50K)Rate"
+    },
+    {
+        "name": "Saltburn",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 7m"
+        },
+        "rate": "6.1 (111)Rate"
+    },
+    {
+        "name": "The Ruins",
+        "duration": {
+            "year": "2008",
+            "hour": "1h 30m"
+        },
+        "rate": "5.9 (80K)Rate"
+    },
+    {
+        "name": "Pain Hustlers",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 2m"
+        },
+        "rate": "Rate"
+    },
+    {
+        "name": "Interstellar",
+        "duration": {
+            "year": "2014",
+            "hour": "2h 49m"
+        },
+        "rate": "8.7 (2M)Rate"
+    },
+    {
+        "name": "Last Night in Soho",
+        "duration": {
+            "year": "2021",
+            "hour": "1h 56m"
+        },
+        "rate": "7.0 (159K)Rate"
+    },
+    {
+        "name": "The Creator",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 13m"
+        },
+        "rate": ""
+    },
+    {
+        "name": "Cobweb",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 28m"
+        },
+        "rate": "5.9 (14K)Rate"
+    },
+    {
+        "name": "The Equalizer 2",
+        "duration": {
+            "year": "2018",
+            "hour": "2h 1m"
+        },
+        "rate": "6.7 (177K)Rate"
+    },
+    {
+        "name": "The Menu",
+        "duration": {
+            "year": "2022",
+            "hour": "1h 47m"
+        },
+        "rate": "7.2 (348K)Rate"
+    },
+    {
+        "name": "Babylon",
+        "duration": {
+            "year": "2022",
+            "hour": "3h 9m"
+        },
+        "rate": "7.1 (144K)Rate"
+    },
+    {
+        "name": "The Dark Knight",
+        "duration": {
+            "year": "2008",
+            "hour": "2h 32m"
+        },
+        "rate": "9.0 (2.8M)Rate"
+    },
+    {
+        "name": "Saw X",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 58m"
+        },
+        "rate": ""
+    },
+    {
+        "name": "John Wick: Chapter 4",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 49m"
+        },
+        "rate": "7.8 (272K)Rate"
+    },
+    {
+        "name": "Priscilla",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 53m"
+        },
+        "rate": "6.4 (159)Rate"
+    },
+    {
+        "name": "Chicken Run: Dawn of the Nugget",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 37m"
+        },
+        "rate": ""
+    },
+    {
+        "name": "Arrival",
+        "duration": {
+            "year": "2016",
+            "hour": "1h 56m"
+        },
+        "rate": "7.9 (735K)Rate"
+    },
+    {
+        "name": "The Pope's Exorcist",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 43m"
+        },
+        "rate": "6.1 (61K)Rate"
+    },
+    {
+        "name": "En dag och en halv",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 34m"
+        },
+        "rate": "5.9 (1.7K)Rate"
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "duration": {
+            "year": "1994",
+            "hour": "2h 22m"
+        },
+        "rate": "9.3 (2.8M)Rate"
+    },
+    {
+        "name": "Choose Love",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 17m"
+        },
+        "rate": "5.1 (1.5K)Rate"
+    },
+    {
+        "name": "The Exorcist: Believer",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 1m"
+        },
+        "rate": ""
+    },
+    {
+        "name": "The Godfather",
+        "duration": {
+            "year": "1972",
+            "hour": "2h 55m"
+        },
+        "rate": "9.2 (1.9M)Rate"
+    },
+    {
+        "name": "Champions",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 4m"
+        },
+        "rate": "6.7 (18K)Rate"
+    },
+    {
+        "name": "Happy Ending",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 32m"
+        },
+        "rate": "5.4 (740)Rate"
+    },
+    {
+        "name": "The Big Short",
+        "duration": {
+            "year": "2015",
+            "hour": "2h 10m"
+        },
+        "rate": "7.8 (461K)Rate"
+    },
+    {
+        "name": "A Man Called Otto",
+        "duration": {
+            "year": "2022",
+            "hour": "2h 6m"
+        },
+        "rate": "7.5 (127K)Rate"
+    },
+    {
+        "name": "Rebel Moon: A Child of Fire",
+        "duration": {
+            "year": "2023",
+            "hour": ""
+        },
+        "rate": ""
+    },
+    {
+        "name": "My Big Fat Greek Wedding",
+        "duration": {
+            "year": "2002",
+            "hour": "1h 35m"
+        },
+        "rate": "6.6 (140K)Rate"
+    },
+    {
+        "name": "The Deer Hunter",
+        "duration": {
+            "year": "1978",
+            "hour": "3h 3m"
+        },
+        "rate": "8.1 (351K)Rate"
+    },
+    {
+        "name": "Fast X",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 21m"
+        },
+        "rate": "5.8 (92K)Rate"
+    },
+    {
+        "name": "Transformers: Rise of the Beasts",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 7m"
+        },
+        "rate": "6.1 (79K)Rate"
+    },
+    {
+        "name": "The Covenant",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 3m"
+        },
+        "rate": "7.5 (116K)Rate"
+    },
+    {
+        "name": "The Whale",
+        "duration": {
+            "year": "2022",
+            "hour": "1h 57m"
+        },
+        "rate": "7.7 (177K)Rate"
+    },
+    {
+        "name": "Avatar: The Way of Water",
+        "duration": {
+            "year": "2022",
+            "hour": "3h 12m"
+        },
+        "rate": "7.6 (457K)Rate"
+    },
+    {
+        "name": "No One Will Save You",
+        "duration": {
+            "year": "2023",
+            "hour": "PG-13"
+        },
+        "rate": ""
+    },
+    {
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "duration": {
+            "year": "2001",
+            "hour": "2h 32m"
+        },
+        "rate": "7.6 (824K)Rate"
+    },
+    {
+        "name": "Dune: Part One",
+        "duration": {
+            "year": "2021",
+            "hour": "2h 35m"
+        },
+        "rate": "8.0 (714K)Rate"
+    },
+    {
+        "name": "The Meg",
+        "duration": {
+            "year": "2018",
+            "hour": "1h 53m"
+        },
+        "rate": "5.6 (196K)Rate"
+    },
+    {
+        "name": "Hacksaw Ridge",
+        "duration": {
+            "year": "2016",
+            "hour": "2h 19m"
+        },
+        "rate": "8.1 (566K)Rate"
+    },
+    {
+        "name": "Birth/Rebirth",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 38m"
+        },
+        "rate": "6.2 (1.1K)Rate"
+    },
+    {
+        "name": "Misanthrope",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 59m"
+        },
+        "rate": "6.6 (24K)Rate"
+    },
+    {
+        "name": "The Pod Generation",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 50m"
+        },
+        "rate": "5.6 (1.1K)Rate"
+    },
+    {
+        "name": "Vacation Friends 2",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 46m"
+        },
+        "rate": "5.3 (4.5K)Rate"
+    },
+    {
+        "name": "The Palace",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 40m"
+        },
+        "rate": "5.0 (151)Rate"
+    },
+    {
+        "name": "Cocaine Bear",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 35m"
+        },
+        "rate": "5.9 (89K)Rate"
+    },
+    {
+        "name": "Inception",
+        "duration": {
+            "year": "2010",
+            "hour": "2h 28m"
+        },
+        "rate": "8.8 (2.5M)Rate"
+    },
+    {
+        "name": "The Wolf of Wall Street",
+        "duration": {
+            "year": "2013",
+            "hour": "3h"
+        },
+        "rate": "8.2 (1.5M)Rate"
+    },
+    {
+        "name": "Evil Dead Rise",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 36m"
+        },
+        "rate": "6.6 (111K)Rate"
+    },
+    {
+        "name": "Tenet",
+        "duration": {
+            "year": "2020",
+            "hour": "2h 30m"
+        },
+        "rate": "7.3 (559K)Rate"
+    },
+    {
+        "name": "Maestro",
+        "duration": {
+            "year": "2023",
+            "hour": "2h 9m"
+        },
+        "rate": "6.7 (193)Rate"
+    },
+    {
+        "name": "Top Gun: Maverick",
+        "duration": {
+            "year": "2022",
+            "hour": "2h 10m"
+        },
+        "rate": "8.3 (629K)Rate"
+    },
+    {
+        "name": "The Little Things",
+        "duration": {
+            "year": "2021",
+            "hour": "2h 8m"
+        },
+        "rate": "6.3 (115K)Rate"
+    },
+    {
+        "name": "Culpa mía",
+        "duration": {
+            "year": "2023",
+            "hour": "1h 57m"
+        },
+        "rate": "6.2 (17K)Rate"
+    }
+]
