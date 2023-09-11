@@ -21,12 +21,18 @@
         return list.textContent
     })
 }
+const movieImg = (element) => {
+    return [...element.querySelectorAll("img")].map((list) => {
+        return list.src
+    })
+}
 
 exports.scrapeDatas = (fetchedDoc) => {
     const list = baseElement(fetchedDoc);
     const names = movieName(list);
     const yearAndHour = movieYearAndHour(list)
     const rates = movieRate(list);
+    const imgSrc = movieImg(list)
 
     let movies = []
     for (let i = 0; i < names.length; i++) {
@@ -34,6 +40,7 @@ exports.scrapeDatas = (fetchedDoc) => {
           name: names[i],
           duration: yearAndHour[i],
           rate: rates[i],
+          img: imgSrc[i]
         });
       }
       return movies

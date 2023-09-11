@@ -1,45 +1,52 @@
-import axios from 'axios';
-import { useEffect, useState } from 'react';
-import './App.css';
-//https://cheerio.js.org/
-// const axiosConfig = {
-//     headers: {
-//     'content-Type': 'text/plain',
-//     "Accept": "/",
-//     },
-//     credentials: "same-origin"
-//     };
+import { useEffect, useState } from "react";
+import "./App.css";
+/**
+ * Movie Data
+ * @typedef {Object} Movie
+ * @property {string} name
+ * @property {string} rate
+ * @property {Object} duration
+ * @property {string} duration.year
+ * @property {string} duration.hour
+ * @property {string} img
+ */
+const fetchImdb = async () => {
+  const response = await fetch("../imdbData.json");
+  const data = await response.json()
   
-  
-// const fetchimdb = async() => {
-//     const response = await axios.get("/api/chart/moviemeter/",axiosConfig)
-//     const textName = await response.data
-//     const parser = new DOMParser()
-//     const doc = await parser.parseFromString(textName, "text/html") 
-//     console.log(doc)
-//     // doc.querySelectorAll(".ipc-metadata-list.ipc-metadata-list--dividers-between.sc-3f13560f-0.sTTRj.compact-list-view.ipc-metadata-list--base")
-// }
- const fetchimdb = async() => {
-    const data = await axios.get("src/file.html",{responseEncoding: "utf8"})
-     const parser = new DOMParser()
-     const doc = await parser.parseFromString(data.data, "text/html") 
-     console.log(doc)
-     const list = doc.querySelector('.ipc-metadata-list.ipc-metadata-list--dividers-between.sc-3f13560f-0.sTTRj.compact-list-view.ipc-metadata-list--base')
-     const a = [...list.querySelectorAll("[data-testid='ratingGroup--container']>span")].map((list) => {
-        return list.textContent
-    })
-    console.dir(a)
- }
+  //deletes "Rate" string on rate
+  for (var i = 0; i < data.length; i++) {
+    var rateDegeri = data[i].rate;
+    data[i].rate = rateDegeri.replace('Rate', '').trim();
+  }
+  return data;
+};
 
 function App() {
-    useEffect(() => {
-         fetchimdb()
-    },[])
+  const [movies, setMovies] = useState([]);
+  useEffect(() => {
+    fetchImdb().then((data) => setMovies(data))
+  }, []);
+  
   return (
-    <>
-    <h1>hi</h1>
-    </>
-  )
+    <div style={{display:"flex", flexDirection:"column", gap:16}}>
+      {movies.length > 0 ?
+        movies.map((/** @type {Movie} */ movie, index) => 
+        (
+        <div key={index} style={{display:"flex", flexDirection:"row", alignItems:"center"}}>
+            <img height={140} src={movie.img} alt={movie.name} loading="lazy"/>
+            <div style={{marginLeft:16, fontSize:21}}>
+                <p>{movie.name}</p>
+                <div>
+                    <p>{movie.rate ? movie.rate : "Rating Not Found"}</p> 
+                    <p>{movie.duration.year ? movie.duration.year : "Not Found"} - {movie.duration.hour ? movie.duration.hour : "Not Found"}</p>
+                </div>
+            </div>
+        </div>
+        )
+        ): <h1 style={{display:"flex", justifyContent:"center", height:"80vh", alignItems:"center"}}>Cannot Reach Data</h1>}
+    </div>
+  );
 }
 
-export default App
+export default App;

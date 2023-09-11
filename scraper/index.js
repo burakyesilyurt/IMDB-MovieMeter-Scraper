@@ -4,7 +4,8 @@ const { writeFile } = require("node:fs/promises");
 const { join } = require("node:path");
 const { scrapeDatas } = require("./imdbScrape");
 
-const file_name = join(__dirname, "imdbData.json");
+const file_name = join(__dirname, "../front-end/imdbData.json");
+
 
 let config = {
   method: "get",
