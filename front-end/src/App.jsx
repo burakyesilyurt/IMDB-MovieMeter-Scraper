@@ -44,7 +44,7 @@ function App() {
             </div>
         </div>
         )
-        ): <h1 style={{display:"flex", justifyContent:"center", height:"80vh", alignItems:"center"}}>Cannot Reach Data</h1>}
+        ): <h1 style={{display:"flex", justifyContent:"center", height:"80vh", alignItems:"center"}}>Cannot Reach Data Or Loading...</h1>}
     </div>
   );
 }
