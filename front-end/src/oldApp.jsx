@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import './App.css';
-//https://cheerio.js.org/
+
 // const axiosConfig = {
 //     headers: {
 //     'content-Type': 'text/plain',
@@ -37,7 +37,7 @@ function App() {
     },[])
   return (
     <>
-    <h1>hi</h1>
+        Data
     </>
   )
 }

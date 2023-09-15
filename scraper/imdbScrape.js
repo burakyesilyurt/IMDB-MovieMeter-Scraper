@@ -7,7 +7,7 @@
 }
 
  const movieYearAndHour = (element) => {
-   return [...element.querySelectorAll(".sc-b85248f1-5.kZGNjY.cli-title-metadata")].map((list) => {
+   return [...element.querySelectorAll(".cli-title-metadata")].map((list) => {
         const [year, hour] = list.querySelectorAll("span:first-child,span:nth-child(2)")
                 return {
                year: year !== undefined ? year.textContent.trim() : "",
