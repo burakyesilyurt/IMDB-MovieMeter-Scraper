@@ -2,6 +2,7 @@
 // import { useEffect, useState } from 'react';
 // import './App.css';
 
+        // // make sure to uncomment server on the vite.config.js 
 //  const axiosConfig = {
 //      headers: {
 //      'content-Type': 'text/plain',
