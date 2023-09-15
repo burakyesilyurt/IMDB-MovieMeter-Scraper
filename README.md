@@ -8,7 +8,7 @@ data scraped from https://www.imdb.com/chart/moviemeter/
 4. go to the front-end dir
 5. Install dependencies: `npm install`
 6. Start the project: `npm run dev`
-7. 
+ 
 # Example Json Data
 ```json
 [
